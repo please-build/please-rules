@@ -6,7 +6,7 @@ A list of Please build definitions that are considered production ready by the P
 
 ## Pleasings
 The legacy way to extend Please was through the Pleasings repository. These rules can still be 
-found [here](https://github.com/thought-machine/pleasings), however will be migreated to plugins
+found [here](https://github.com/thought-machine/pleasings), however will be migrated to plugins
 as they mature. 
 
 ## Languages
