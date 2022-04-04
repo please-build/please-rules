@@ -1,4 +1,4 @@
-# Build definitions for the Please build system 
+# Build definitions and tools for the Please build system 
 
 A list of Please build definitions that are considered production ready by the Please team.
 
