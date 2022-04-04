@@ -19,7 +19,7 @@ as they mature.
 * [Proto](https://github.com/please-build/proto-rules) - Base build definitions providing `proto_library()` and `grpc_library()` rules
 * [Java](https://github.com/please-build/java-proto-rules)
 * [Python](https://github.com/please-build/python-proto-rules)
-* [Go](https://github.com/please-build/go-proto-rules)
+* [Golang](https://github.com/please-build/go-proto-rules)
 
 ## Tools
 
