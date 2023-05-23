@@ -17,11 +17,9 @@ as they mature.
 
 ## Protobuf
 * [Proto](https://github.com/please-build/proto-rules) - Base build definitions providing `proto_library()` and `grpc_library()` rules
-* [Java](https://github.com/please-build/java-proto-rules)
 * [Python](https://github.com/please-build/python-proto-rules)
 * [Golang](https://github.com/please-build/go-proto-rules)
 
 ## Tools
 
 * [Wollemi](https://github.com/tcncloud/wollemi) - Generates and updates `BUILD` files for golang 
-* [go-deps](https://github.com/tatskaari/go-deps) - Generates and updates rules to download third party go modules.
