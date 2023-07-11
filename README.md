@@ -2,8 +2,6 @@
 
 A list of Please build definitions that are considered production ready by the Please team.
 
-**Note that the plugins API itself is still in development**
-
 ## Pleasings
 The legacy way to extend Please was through the Pleasings repository. These rules can still be 
 found [here](https://github.com/thought-machine/pleasings), however will be migrated to plugins
