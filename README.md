@@ -8,7 +8,7 @@ found [here](https://github.com/thought-machine/pleasings), however will be migr
 as they mature. 
 
 ## Languages
-* [Java](https://github.com/please-build/cc-rules) 
+* [Java](https://github.com/please-build/java-rules) 
 * [Python](https://github.com/please-build/python-rules) 
 * [C/C++](https://github.com/please-build/cc-rules) 
 * [Golang](https://github.com/please-build/go-rules) 
