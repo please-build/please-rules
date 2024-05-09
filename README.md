@@ -24,4 +24,4 @@ as they mature.
 
 ## Tools
 
-* [Wollemi](https://github.com/tcncloud/wollemi) - Generates and updates `BUILD` files for golang 
+* [Puku](https://github.com/please-build/puku) - Generates and updates `BUILD` files for golang 
